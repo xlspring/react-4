@@ -1,11 +1,11 @@
-import "../styles/components/GridView/index.css";
+// import "../styles/components/GridView/index.css";
 
-function GridView(props) {
-  return (
-    <main>
-      <div className="content-wrapper">{props.children}</div>
-    </main>
-  );
-}
+// function GridView(props) {
+//   return (
+//     <main>
+//       <div className="content-wrapper">{props.children}</div>
+//     </main>
+//   );
+// }
 
-export default GridView;
+// export default GridView;
